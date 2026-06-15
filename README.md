@@ -27,7 +27,7 @@ GoodFood is a responsive food ordering website developed using HTML, CSS, and Ja
 <tr>
 <td align="center">
 <b>Add To Cart</b><br><br>
-<img src="Screenshots/Output SS/add20%to20%cart.png" width="220" alt="Add To Cart">
+<img src="Screenshots/Output SS/add to cart.png" width="220" alt="Add To Cart">
 </td>
 
 <td align="center">
